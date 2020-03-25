@@ -4,7 +4,6 @@
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package sahjanand
  */
 
 if ( ! function_exists( 'firsttheme_setup' ) ) :
